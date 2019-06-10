@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B8FA-459A
+
+ Directory of C:\Users\Administrator\Desktop\revisit
+
+06/10/2019  02:17 PM    <DIR>          .
+06/10/2019  02:17 PM    <DIR>          ..
+06/10/2019  02:17 PM                 0 coco.txt
+06/10/2019  02:16 PM               465 cookie1.txt
+06/07/2019  02:44 PM                37 visit.txt
+06/07/2019  02:43 PM                48 visit2.txt
+               4 File(s)            550 bytes
+               2 Dir(s)   5,004,386,304 bytes free
